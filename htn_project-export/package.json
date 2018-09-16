@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "5662297d-5075-4bc9-af0c-f4a0e4335f81",
+    "appType": "app",
+    "appDisplayName": "htn_project",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#03a9f4",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "run_background"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "htn_project"
+      }
+    }
+  }
+}
